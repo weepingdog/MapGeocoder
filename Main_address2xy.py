@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-
-#import time
-#import random
-#time.sleep(random.randint(1,2))
+import time
+import random
 
 from gcs2wgs84 import gcj02towgs84
 from easyExcel import easyExcel
